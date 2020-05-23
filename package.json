@@ -1,0 +1,25 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "This is a first test directory for learn Angular,node,mongo",
+  "main": "index.html",
+  "dependencies": {
+    "npm": "^6.14.5"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiwariravindra/basic.git"
+  },
+  "author": "Ravindra Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiwariravindra/basic/issues"
+  },
+  "homepage": "https://github.com/tiwariravindra/basic#readme"
+}
